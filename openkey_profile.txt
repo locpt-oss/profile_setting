@@ -1,0 +1,185 @@
+;Compatible OpenKey Macro Data file for UniKey*** version=1 ***
+3/2:đường 3/2
+ahon:ChipChiu#311
+bb:bái baiii
+bctc:báo cáo tài chính
+bd:bắt đầu
+bds:bất động sản
+bg:bao giờ
+bh:bây giờ
+bhxh:bảo hiểm xã hội
+bn:bao nhiêu
+bnd:ban đầu
+bsi :bác sĩ
+bth:bình thường
+btinh:bình tĩnh
+bve:bảo vệ
+bvi:bệnh viện
+cbi:chuẩn bị
+cgai:con gái
+cgk:chứng khoán
+chtr:chương trình
+ckcs:chứng khoán cơ sở
+cmt8:cách mạng tháng 8
+cnk:chuyển khoản
+cpa:cổ phần
+cpi:cổ phiếu
+cs:cuộc sống
+cskh:chăm sóc khách hàng
+cta:chúng ta
+ctay:chia tay
+cth:công thái học
+cthuc:công thức
+ctr:con trai
+cty:công ty
+cuk:chứng khoán
+cukvn:chứng khoán Việt Nam 
+cviec:công việc
+cxc:chính xác
+db:đặc biệt
+dc:được
+dcn:đánh cẩn thận
+dh:đại học
+dhc:đồng hồ cát
+dk:điều kiện
+dko:đúng không
+dl:đà lạt
+dmx:điện máy xanh
+dt:điện thoại
+dth:dễ thương
+dvi:diễn viên
+dvu:dịch vụ
+edi:Sư Minh Tuệ#3003
+f3r:đánh baron nè
+fb:facebook
+fdra:đánh rồng nè
+fgru:đánh sâu nè
+fher:đánh sứ giả nè
+frh:đánh sứ giả nè
+fvgd:FVG DAY
+fvgw:FVG WEEK
+gdkhq:giao dịch không hưởng quyền
+gg:google
+gtr:giá trị
+gv:giáo viên
+hbua:hôm bữa
+hdh:hệ điều hành
+hdsd:hướng dẫn sử dụng
+hh:giờ
+hkia:hôm kia
+hnay:hôm nay
+hqua:hôm qua
+hs:học sinh
+hsau:hôm sau
+hsi:học sinh
+hso:hồ sơ
+hst:home stay
+htlo:Hải Thượng Lãng Ông
+htrc:hôm trước
+ins:instagram
+jbot:rừng nó đang ở phía bot, đánh cẩn thận
+jbt:rừng nó đang ở phía bot, đánh cẩn thận
+jtop:rừng nó đang ở phía top, đánh cẩn thận
+jtp:rừng nó đang ở phía top, đánh cẩn thận
+kb:không biết
+kba:không bằng
+kbh:không bao giờ
+kbi:không biết
+kbn:không biết nữa
+knn:kinh nghiệm
+ko:không
+kp:không phải
+kqkd:kết quả kinh doanh
+ksan:khách sạn
+ksao:không sao
+kte:kinh tế
+ktr:kiểm tra
+k=:không bằng
+ltt:Lê Trọng Tấn
+mk:mật khẩu
+mn:mọi người
+mqh:mối quan hệ
+mxh:mạng xã hội
+nc:nước
+nch:nói chuyện
+nchu:nói chung
+ndt:nhà đầu tư
+ndtnn:nhà đầu tư nước ngoài
+ng:người
+ngc:ngược
+nghg:ngân hàng
+ngiu:người yêu
+ngta:người ta
+nhg:nhưng
+nt:nhắn tin
+ntmk:Nguyễn Thị Minh Khai
+ntn:như thế nào
+ntt:Nguyễn Thị Tú
+nvqs:nghĩa vụ quân sự
+nvu:nhiệm vụ
+pb:phân biệt
+pdb:đẩy lính vào trụ, dive bot
+pdbot:đẩy lính vào trụ, dive bot
+pdbt:đẩy lính vào trụ, dive bot
+pdm:đẩy lính vào trụ, dive mid
+pdmid:đẩy lính vào trụ, dive mid
+pdt:đẩy lính vào trụ, dive top
+pdtop:đẩy lính vào trụ, dive top
+pdtp:đẩy lính vào trụ, dive top
+pk:phòng khám
+pko:phải không
+pp:phương pháp
+pq:phú quốc
+pt:phát triển
+ptcb:phân tích cơ bản
+ptkt:phân tích kỹ thuật
+pv:phỏng vấn
+pvan:phỏng vấn
+qly:quản lý
+qsa:quan sát
+qta:quan tâm
+qtr:quá trời
+qtrg:quan trọng
+rr:rồi
+sd:sử dụng
+sdt:số điện thoại
+stk:số tài khoản
+sv:sinh viên
+sx:sản xuất
+tb:trung bình
+tgian:thời gian
+thhd:trường học heo đất
+tik:tiktok
+tk:tài khoản
+tktq:Tân Kỳ Tân Quý
+tl:trả lời
+tn:tin nhắn
+tr:trời
+trc:trước
+trl:trả lời
+trs:trà sữa
+tsau:tuần sau
+ttck:thị trường chứng khoán
+ttckvn:thị trường chứng khoán Việt Nam
+ttr:thị trường
+tvie:tiếng việt
+vde:vấn đề
+vdu:ví dụ
+vdv:vận động viên
+vn:Việt Nam
+vp:văn phòng
+vs:với
+vss:versus
+vt:Vũng Tàu
+vv:vậy
+w3r:cắm mắt 3ron
+wata:cắm mắt atakhan
+wdra:cắm mắt rồng
+wgru:cắm mắt sâu
+wher:cắm mắt sứ giả
+wrh:cắm mắt sứ giả
+wvg:cắm mắt sâu
+xg:xong
+xs:xuất sắc
+yc:yêu cầu
+ytb:youtube

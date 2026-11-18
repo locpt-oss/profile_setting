@@ -1,0 +1,21 @@
+chophim.*##div.fixed.inset-0.z-\[90\].flex.items-center.justify-center.bg-black\/65.p-4
+chophim.*##div.relative.isolate div:has(> a.block > img.block.h-auto.w-full)
+chophim.*##div:has(> a.block > img.block.h-auto.w-full)
+chophim.*##div.mt-2.flex.w-full.flex-col.items-center.justify-center
+chophim.*##div.flex.w-full.flex-col.items-center.justify-center.gap-0.overflow-visible.py-2
+chophim.*##section.grid.w-full.grid-flow-col.grid-cols-2
+chophim.*##div.fixed.inset-x-0.bottom-0.z-\[80\]
+chophim.*##div.fixed.inset-x-0.bottom-0:has(section[aria-label="Quang cao"])
+chophim.*##section[aria-label="Quang cao"]
+chophim.*##section.grid.w-full.grid-flow-col.grid-cols-6
+chophim.*##section:has(a[aria-label*="Mo quang cao"])
+chophim.*##section:has(a[href*="bit.ly"], a[href*="thlink.pages.dev"], a[href*="tinyurl.com"])
+chophim.*##footer
+tv.chophim-cdn.fun##div.fixed.inset-0.z-\[90\].flex.items-center.justify-center.bg-black\/65.p-4
+tv.chophim-cdn.fun##div.fixed.inset-x-0.bottom-0.z-\[80\].flex.justify-center
+tv.chophim-cdn.fun##footer
+cobephim.*##div.ws-rate
+cobephim.*##div.sspp-area
+cobephim.*##footer
+phe69.*###adsweb-top-banners
+youtube.com##yt-chip-cloud-renderer
