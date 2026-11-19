@@ -37,6 +37,7 @@ xnhau.*##div.spot
 xnhau.*##div.report-violate
 xnhau.*##div.box.tags-cloud
 xnhau.*##p.text
+xnhau.*##iframe[title="Quảng cáo"]
 xnhau.*##div.xnp-adline.xnp-adline-on
 xnhau.*##div.sponsor
 xnhau.*##div.del-video-support
