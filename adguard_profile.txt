@@ -18,4 +18,16 @@ cobephim.*##div.ws-rate
 cobephim.*##div.sspp-area
 cobephim.*##footer
 phe69.*###adsweb-top-banners
+phe69.*##h1.widget-title 
+phe69.*##p.archive-description
+javhdz.*##div.banner-preload
+javhdz.*###comment-box
+javhdz.*##div.right-box-tag
+javhdz.*##footer
+yeusex.*##div.banner-preload
+yeusex.*##footer
+sexvl.*##section.editorial-intro
+sexvl.*##footer
+nangcuc.*###overlay
+nangcuc.*###mp-mb-preload
 youtube.com##yt-chip-cloud-renderer
