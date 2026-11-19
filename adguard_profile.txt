@@ -53,4 +53,10 @@ sexvl.*##section.editorial-intro
 sexvl.*##footer
 nangcuc.*###overlay
 nangcuc.*###mp-mb-preload
+phimsex10x.*##div[style*="z-index: 2147483646"]
+phimsex10x.*##div[style*="z-index: 2147483647"]
+phimsex10x.*##div[style*="position: fixed"]:has(a[href*="jun8899.me"], a[href*="c168n.biz"])
+phimsex10x.*##html, body:style(overflow: auto !important; overflow-y: scroll !important; position: static !important;)
+phimsex10x.*##div.tab-movies1:nth-of-type(2)
+phimsex10x.*##footer
 youtube.com##yt-chip-cloud-renderer
