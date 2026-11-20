@@ -1,6 +1,7 @@
 ;Compatible OpenKey Macro Data file for UniKey*** version=1 ***
 3/2:đường 3/2
-ahon:ChipChiu#311
+2chen:Thiện Chánh#vn2
+ahon:Đút Lót Kiểm Lâm#311
 bb:bái baiii
 bctc:báo cáo tài chính
 bd:bắt đầu
@@ -49,7 +50,8 @@ dt:điện thoại
 dth:dễ thương
 dvi:diễn viên
 dvu:dịch vụ
-edi:Sư Minh Tuệ#3003
+edi:m ngĩ m là faker#58584
+elac:Vịt Lộn Xào Me#2009
 f3r:đánh baron nè
 fb:facebook
 fdra:đánh rồng nè
