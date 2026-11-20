@@ -38,6 +38,9 @@ yeusex.*##footer
 xemsexngon.*##div.banner-preload
 xemsexngon.*###ads
 xemsexngon.*##footer
+sexnhe.*##div.banner-preload
+sexnhe.*###ads
+sexnhe.*##footer
 xnhau.*##div.footer
 xnhau.*##div.spot
 xnhau.*##div.report-violate
