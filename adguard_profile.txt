@@ -23,6 +23,38 @@ tv.chophim-cdn.fun##footer
 cobephim.*##div.ws-rate
 cobephim.*##div.sspp-area
 cobephim.*##footer
+onflix.*##footer
+rophimz.*##div.hero-sticky-footer.herotop
+rophimz.*##div.hero-sticky-footer
+rophimz.*##a.app-download-button
+rophimz.*##button#totop[title="Ẩn QC"]
+rophimz.*##footer
+motchillw.*##footer
+rophim10.*##div.row-topic.mask
+rophim10.*##div.row-topic.adserver
+rophim10.*##div.banner-bottom-double.adserver
+rophim10.*##div.sspp-area
+rophim10.*##div.banner-middle-double.adserver
+rophim10.*##div.effect-fade-in:has(> div.sspp-area > div.banner-middle-single.adserver)
+rophim10.*##div.banner-middle-single.adserver
+rophim10.*##div.adserver.catfish-bottom
+rophim10.*##footer
+xoilacxdh.*##section.highlights_box
+xoilacxdh.*##section.xltv-news_box
+xoilacxdh.*##section.section__desc.as-hide-popup-chat
+xoilacxdh.*##a.odds-comp-logo
+xoilacxdh.*##a[href*="15.235.211.177"]
+xoilacxdh.*##div.menu-top-nha-cai
+xoilacxdh.*##a.btn-8xbet
+xoilacxdh.*##div.team-live
+xoilacxdh.*##div.teambox__odds-container
+xoilacxdh.*##div.marquee-container
+xoilacxdh.*##div.row.as-hide-popup-chat
+xoilac.domainkqt.cc##a[href*="15.235.211.177"]
+xoilac.domainkqt.cc##div.odds-button:style(display: none !important; visibility: hidden !important; pointer-events: none !important;)
+xoilac.domainkqt.cc##div.odds-button2:style(display: none !important; visibility: hidden !important; pointer-events: none !important;)
+xoilac.domainkqt.cc##div.banner-bottom-11:style(display: none !important; visibility: hidden !important; pointer-events: none !important;)
+xoilacxdh.*##footer
 phe69.*###adsweb-top-banners
 phe69.*##h1.widget-title 
 phe69.*##p.archive-description
