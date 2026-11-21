@@ -89,6 +89,29 @@ xlz.domainkqt.cc##div.odds-button2:style(display: none !important; visibility: h
 xlz.domainkqt.cc##div.banner-bottom-11:style(display: none !important; visibility: hidden !important; pointer-events: none !important; opacity: 0 !important;)
 wildfriendsfoods.*##footer
 
+realtyshares.com##div.row-front-page
+realtyshares.com##section.highlights_box
+realtyshares.com##section.xltv-news_box
+realtyshares.com##section.box_content_home
+realtyshares.com##a.btn-company
+realtyshares.com##a.xlz-btn-8xbet.xlz-ads-item
+realtyshares.com##div.topnav-btn
+realtyshares.com##div.title_box
+realtyshares.com##a.odds-comp-logo
+realtyshares.com##a[href*="15.235.211.177"]
+realtyshares.com##div.menu-top-nha-cai
+realtyshares.com##a.btn-8xbet
+realtyshares.com##div.team-live
+realtyshares.com##div.teambox__odds
+realtyshares.com##div.match-detail__offer
+realtyshares.com##div.as-hide-popup-chat
+realtyshares.com##div.mobile-odds-container
+xlz.domainkqt.cc##a[href*="15.235.211.177/xoilac"]
+xlz.domainkqt.cc##div.odds-button:style(display: none !important; visibility: hidden !important; pointer-events: none !important; opacity: 0 !important;)
+xlz.domainkqt.cc##div.odds-button2:style(display: none !important; visibility: hidden !important; pointer-events: none !important; opacity: 0 !important;)
+xlz.domainkqt.cc##div.banner-bottom-11:style(display: none !important; visibility: hidden !important; pointer-events: none !important; opacity: 0 !important;)
+realtyshares.com##footer
+
 phe69.*###adsweb-top-banners
 phe69.*##h1.widget-title 
 phe69.*##p.archive-description
