@@ -103,7 +103,9 @@ yeusex.*##footer
 xemsexngon.*##div.banner-preload
 xemsexngon.*###ads
 xemsexngon.*##footer
-
+phimxngon.*##div.banner-preload
+phimxngon.*###ads
+phimxngon.*##footer
 sexnhe.*##div.banner-preload
 sexnhe.*###ads
 sexnhe.*##footer
