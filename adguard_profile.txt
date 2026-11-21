@@ -17,19 +17,25 @@ chophim.*##a[href*="adready.vip"]
 chophim.*##a[target="_blank"][style*="position: fixed"]
 chophim.*##a[target="_blank"][style*="position: absolute"][style*="z-index"]
 ||chophim.*^$script,third-party
+
 tv.chophim-cdn.fun##div.fixed.inset-0.z-\[90\].flex.items-center.justify-center.bg-black\/65.p-4
 tv.chophim-cdn.fun##div.fixed.inset-x-0.bottom-0.z-\[80\].flex.justify-center
 tv.chophim-cdn.fun##footer
+
 cobephim.*##div.ws-rate
 cobephim.*##div.sspp-area
 cobephim.*##footer
+
 onflix.*##footer
+
 rophimz.*##div.hero-sticky-footer.herotop
 rophimz.*##div.hero-sticky-footer
 rophimz.*##a.app-download-button
 rophimz.*##button#totop[title="Ẩn QC"]
 rophimz.*##footer
+
 motchillw.*##footer
+
 rophim10.*##div.row-topic.mask
 rophim10.*##div.row-topic.adserver
 rophim10.*##div.banner-bottom-double.adserver
@@ -39,6 +45,9 @@ rophim10.*##div.effect-fade-in:has(> div.sspp-area > div.banner-middle-single.ad
 rophim10.*##div.banner-middle-single.adserver
 rophim10.*##div.adserver.catfish-bottom
 rophim10.*##footer
+
+xoilacxdh.*##div.top-bar
+xoilacxdh.*##div.menu-top-nc
 xoilacxdh.*##section.highlights_box
 xoilacxdh.*##section.xltv-news_box
 xoilacxdh.*##section.section__desc.as-hide-popup-chat
@@ -49,30 +58,56 @@ xoilacxdh.*##a.btn-8xbet
 xoilacxdh.*##div.team-live
 xoilacxdh.*##div.teambox__odds-container
 xoilacxdh.*##div.marquee-container
+xoilacxdh.*##div.mobile-odds-container
 xoilacxdh.*##div.row.as-hide-popup-chat
 xoilac.domainkqt.cc##a[href*="15.235.211.177"]
 xoilac.domainkqt.cc##div.odds-button:style(display: none !important; visibility: hidden !important; pointer-events: none !important;)
 xoilac.domainkqt.cc##div.odds-button2:style(display: none !important; visibility: hidden !important; pointer-events: none !important;)
 xoilac.domainkqt.cc##div.banner-bottom-11:style(display: none !important; visibility: hidden !important; pointer-events: none !important;)
 xoilacxdh.*##footer
+
+wildfriendsfoods.com##div.row-front-page
+wildfriendsfoods.com##section.highlights_box
+wildfriendsfoods.com##section.xltv-news_box
+wildfriendsfoods.com##section.box_content_home
+wildfriendsfoods.com##a.btn-company
+wildfriendsfoods.com##a.xlz-btn-8xbet.xlz-ads-item
+wildfriendsfoods.com##div.topnav-btn
+wildfriendsfoods.com##div.title_box
+wildfriendsfoods.com##a.odds-comp-logo
+wildfriendsfoods.com##a[href*="15.235.211.177"]
+wildfriendsfoods.com##div.menu-top-nha-cai
+wildfriendsfoods.com##a.btn-8xbet
+wildfriendsfoods.com##div.team-live
+wildfriendsfoods.com##div.teambox__odds
+wildfriendsfoods.com##div.match-detail__offer
+wildfriendsfoods.com##div.as-hide-popup-chat
+wildfriendsfoods.com##div.mobile-odds-container
+wildfriendsfoods.*##footer
+
 phe69.*###adsweb-top-banners
 phe69.*##h1.widget-title 
 phe69.*##p.archive-description
 phe69.*##div.adsweb-popup-overlay
 phe69.*##footer
+
 javhdz.*##div.banner-preload
 javhdz.*###comment-box
 javhdz.*##div.right-box-tag
 javhdz.*##footer
+
 yeusex.*##div.banner-preload
 yeusex.*###ads
 yeusex.*##footer
+
 xemsexngon.*##div.banner-preload
 xemsexngon.*###ads
 xemsexngon.*##footer
+
 sexnhe.*##div.banner-preload
 sexnhe.*###ads
 sexnhe.*##footer
+
 xnhau.*##div.footer
 xnhau.*##div.spot
 xnhau.*##div.report-violate
@@ -84,14 +119,18 @@ xnhau.*##div.sponsor
 xnhau.*##div.del-video-support
 xnhau.*##div.block-comments.custom-video-comments
 xnhau.*##div.info-content
+
 sexvl.*##section.editorial-intro
 sexvl.*##footer
+
 nangcuc.*###overlay
 nangcuc.*###mp-mb-preload
+
 phimsex10x.*##div[style*="z-index: 2147483646"]
 phimsex10x.*##div[style*="z-index: 2147483647"]
 phimsex10x.*##div[style*="position: fixed"]:has(a[href*="jun8899.me"], a[href*="c168n.biz"])
 phimsex10x.*##html, body:style(overflow: auto !important; overflow-y: scroll !important; position: static !important;)
 phimsex10x.*##div.tab-movies1:nth-of-type(2)
 phimsex10x.*##footer
+
 youtube.com##yt-chip-cloud-renderer
