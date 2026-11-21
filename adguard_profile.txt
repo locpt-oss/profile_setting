@@ -83,6 +83,10 @@ wildfriendsfoods.com##div.teambox__odds
 wildfriendsfoods.com##div.match-detail__offer
 wildfriendsfoods.com##div.as-hide-popup-chat
 wildfriendsfoods.com##div.mobile-odds-container
+xlz.domainkqt.cc##a[href*="15.235.211.177/xoilac"]
+xlz.domainkqt.cc##div.odds-button:style(display: none !important; visibility: hidden !important; pointer-events: none !important; opacity: 0 !important;)
+xlz.domainkqt.cc##div.odds-button2:style(display: none !important; visibility: hidden !important; pointer-events: none !important; opacity: 0 !important;)
+xlz.domainkqt.cc##div.banner-bottom-11:style(display: none !important; visibility: hidden !important; pointer-events: none !important; opacity: 0 !important;)
 wildfriendsfoods.*##footer
 
 phe69.*###adsweb-top-banners
