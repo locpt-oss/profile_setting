@@ -1,3 +1,5 @@
+youtube.com##yt-chip-cloud-renderer
+
 chophim.*##div.fixed.inset-0.z-\[90\].flex.items-center.justify-center.bg-black\/65.p-4
 chophim.*##div.relative.isolate div:has(> a.block > img.block.h-auto.w-full)
 chophim.*##div:has(> a.block > img.block.h-auto.w-full)
@@ -162,4 +164,5 @@ phimsex10x.*##html, body:style(overflow: auto !important; overflow-y: scroll !im
 phimsex10x.*##div.tab-movies1:nth-of-type(2)
 phimsex10x.*##footer
 
-youtube.com##yt-chip-cloud-renderer
+missav.live##div[class^="root--"][class*="bottomRight--"]
+missav.live##footer
