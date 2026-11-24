@@ -11,6 +11,11 @@ cafef.vn##div.nck-container
 cafef.vn##div.kl-group-content
 cafef.vn##div.scroll_top_event
 
+24hmoney.vn##div.stock-comments-list
+24hmoney.vn##div.recommendations
+24hmoney.vn##footer.footer-box
+24hmoney.vn##div.sticky-box
+
 chophim.*##div.fixed.inset-0.z-\[90\].flex.items-center.justify-center.bg-black\/65.p-4
 chophim.*##div.relative.isolate div:has(> a.block > img.block.h-auto.w-full)
 chophim.*##div:has(> a.block > img.block.h-auto.w-full)
