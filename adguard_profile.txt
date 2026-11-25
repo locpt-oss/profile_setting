@@ -139,6 +139,11 @@ phe69.*##footer
 javhdz.*##div.banner-preload
 javhdz.*###comment-box
 javhdz.*##div.right-box-tag
+javhdz.*##div.right-box-ads
+javhdz.*##div.catfish-bottom
+javhdz.*##div.movie-ads
+javhdz.*##div.entry-footer-ads
+javhdz.*##div.movie-ads-underplay
 javhdz.*##footer
 
 yeusex.*##div.banner-preload
