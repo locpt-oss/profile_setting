@@ -187,3 +187,10 @@ phimsex10x.*##footer
 
 missav.live##div[class^="root--"][class*="bottomRight--"]
 missav.live##footer
+
+x.phimsexvn1.co.uk##footer
+x.phimsexvn1.co.uk##div.jm-ad-stack
+x.phimsexvn1.co.uk##div.jm-top-reserve
+x1.phimsexvn1.co.uk##footer
+x1.phimsexvn1.co.uk##div.jm-ad-stack
+x1.phimsexvn1.co.uk##div.jm-top-reserve
