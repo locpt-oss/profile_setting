@@ -1,5 +1,7 @@
 youtube.com##yt-chip-cloud-renderer
 
+fireant.vn##nav[role="tablist"] > button[role="tab"]:has-text(/^Cộng đồng$/)
+
 cafef.vn##div.bdtop.nhome-hot
 cafef.vn##div.footer.hide-loading
 cafef.vn##div.chuyenmuc.CauChuyenThuongHieu
