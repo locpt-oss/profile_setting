@@ -2,6 +2,11 @@ youtube.com##yt-chip-cloud-renderer
 
 fireant.vn##nav[role="tablist"] > button[role="tab"]:has-text(/^Cộng đồng$/)
 
+vn.investing.com##div[data-floating-ui-portal] > div[style*="inset: 0px"][style*="position: fixed"]
+vn.investing.com##div[data-test="footer"]
+vn.investing.com##div[data-test="fab-container"]
+vn.investing.com##div[data-test="inv-pro-strategies"]
+
 cafef.vn##div.bdtop.nhome-hot
 cafef.vn##div.footer.hide-loading
 cafef.vn##div.chuyenmuc.CauChuyenThuongHieu
