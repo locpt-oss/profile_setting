@@ -195,9 +195,6 @@ xnhau.*##div.spot
 xnhau.*##div.report-violate
 xnhau.*##div.box.tags-cloud
 xnhau.*##p.text
-xnhau.*##div.xnp-adline.xnp-adline-on
-xnhau.*##div.sponsor
-xnhau.*##div.del-video-support
 xnhau.*##div.block-comments.custom-video-comments
 xnhau.*##div.info-content
 xnhau.*##div.most-searched
