@@ -91,6 +91,22 @@ xoilac.domainkqt.cc##div.odds-button2:style(display: none !important; visibility
 xoilac.domainkqt.cc##div.banner-bottom-11:style(display: none !important; visibility: hidden !important; pointer-events: none !important;)
 xoilacxdh.*##footer
 
+xoilac86xc.cc##div.top-bar
+xoilac86xc.cc##div.menu-top-nc
+xoilac86xc.cc##section.highlights_box
+xoilac86xc.cc##section.xltv-news_box
+xoilac86xc.cc##section.section__desc.as-hide-popup-chat
+xoilac86xc.cc##a.odds-comp-logo
+xoilac86xc.cc##a[href*="15.235.211.177"]
+xoilac86xc.cc##div.menu-top-nha-cai
+xoilac86xc.cc##a.btn-8xbet
+xoilac86xc.cc##div.team-live
+xoilac86xc.cc##div.teambox__odds-container
+xoilac86xc.cc##div.marquee-container
+xoilac86xc.cc##div.mobile-odds-container
+xoilac86xc.cc##div.row.as-hide-popup-chat
+xoilac86xc.cc##footer
+
 wildfriendsfoods.com##div.row-front-page
 wildfriendsfoods.com##section.highlights_box
 wildfriendsfoods.com##section.xltv-news_box
@@ -131,10 +147,6 @@ realtyshares.com##div.teambox__odds
 realtyshares.com##div.match-detail__offer
 realtyshares.com##div.as-hide-popup-chat
 realtyshares.com##div.mobile-odds-container
-xlz.domainkqt.cc##a[href*="15.235.211.177/xoilac"]
-xlz.domainkqt.cc##div.odds-button:style(display: none !important; visibility: hidden !important; pointer-events: none !important; opacity: 0 !important;)
-xlz.domainkqt.cc##div.odds-button2:style(display: none !important; visibility: hidden !important; pointer-events: none !important; opacity: 0 !important;)
-xlz.domainkqt.cc##div.banner-bottom-11:style(display: none !important; visibility: hidden !important; pointer-events: none !important; opacity: 0 !important;)
 realtyshares.com##footer
 
 ssnbs.org##div.row-front-page
@@ -154,10 +166,6 @@ ssnbs.org##div.teambox__odds
 ssnbs.org##div.match-detail__offer
 ssnbs.org##div.as-hide-popup-chat
 ssnbs.org##div.mobile-odds-container
-xlz.domainkqt.cc##a[href*="15.235.211.177/xoilac"]
-xlz.domainkqt.cc##div.odds-button:style(display: none !important; visibility: hidden !important; pointer-events: none !important; opacity: 0 !important;)
-xlz.domainkqt.cc##div.odds-button2:style(display: none !important; visibility: hidden !important; pointer-events: none !important; opacity: 0 !important;)
-xlz.domainkqt.cc##div.banner-bottom-11:style(display: none !important; visibility: hidden !important; pointer-events: none !important; opacity: 0 !important;)
 ssnbs.org##footer
 
 phe69.*###adsweb-top-banners
