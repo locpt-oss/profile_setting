@@ -202,3 +202,6 @@ xnhau.*##div.block-comments.custom-video-comments
 xnhau.*##div.info-content
 xnhau.*##div.most-searched
 xnhau.*##div.box.search-cloud
+xnhau.*##.fp-ui .spot
+xnhau.*##.fp-ui #fxStartPane
+xnhau.*##.fp-ui iframe[src*="player/html.php"]
