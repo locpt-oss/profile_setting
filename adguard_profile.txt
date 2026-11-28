@@ -137,6 +137,29 @@ xlz.domainkqt.cc##div.odds-button2:style(display: none !important; visibility: h
 xlz.domainkqt.cc##div.banner-bottom-11:style(display: none !important; visibility: hidden !important; pointer-events: none !important; opacity: 0 !important;)
 realtyshares.com##footer
 
+ssnbs.org##div.row-front-page
+ssnbs.org##section.highlights_box
+ssnbs.org##section.xltv-news_box
+ssnbs.org##section.box_content_home
+ssnbs.org##a.btn-company
+ssnbs.org##a.xlz-btn-8xbet.xlz-ads-item
+ssnbs.org##div.topnav-btn
+ssnbs.org##div.title_box
+ssnbs.org##a.odds-comp-logo
+ssnbs.org##a[href*="15.235.211.177"]
+ssnbs.org##div.menu-top-nha-cai
+ssnbs.org##a.btn-8xbet
+ssnbs.org##div.team-live
+ssnbs.org##div.teambox__odds
+ssnbs.org##div.match-detail__offer
+ssnbs.org##div.as-hide-popup-chat
+ssnbs.org##div.mobile-odds-container
+xlz.domainkqt.cc##a[href*="15.235.211.177/xoilac"]
+xlz.domainkqt.cc##div.odds-button:style(display: none !important; visibility: hidden !important; pointer-events: none !important; opacity: 0 !important;)
+xlz.domainkqt.cc##div.odds-button2:style(display: none !important; visibility: hidden !important; pointer-events: none !important; opacity: 0 !important;)
+xlz.domainkqt.cc##div.banner-bottom-11:style(display: none !important; visibility: hidden !important; pointer-events: none !important; opacity: 0 !important;)
+ssnbs.org##footer
+
 phe69.*###adsweb-top-banners
 phe69.*##h1.widget-title 
 phe69.*##p.archive-description
